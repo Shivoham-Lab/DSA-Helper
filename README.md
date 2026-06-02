@@ -1,11 +1,33 @@
-# 🧠 DSA Helper — A Claude Skill for Competitive Programming
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║    ███████╗██╗  ██╗██╗██╗   ██╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗   ║
+║    ██╔════╝██║  ██║██║██║   ██║██╔═══██╗██║  ██║██╔══██╗████╗ ████║   ║
+║    ███████╗███████║██║██║   ██║██║   ██║███████║███████║██╔████╔██║   ║
+║    ╚════██║██╔══██║██║╚██╗ ██╔╝██║   ██║██╔══██║██╔══██║██║╚██╔╝██║   ║
+║    ███████║██║  ██║██║ ╚████╔╝ ╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║   ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝   ║
+║                                                                       ║
+║              L  A  B  S  ·  शिवोऽहम्  ·  Independent                   ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 
 <div align="center">
 
-![DSA Helper Banner](https://img.shields.io/badge/Claude-Skill-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/Supports-LeetCode%20%7C%20HackerRank%20%7C%20Codeforces-0EA5E9?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20C%2B%2B%20%7C%20Python-F59E0B?style=for-the-badge)
+**Building at the edge of AI, systems, and real-world problems.**
+
+*Shivoham (शिवोऽहम्) — "I am that." Sanskrit. Identity. Intent. Purpose.*
+
+[![Website](https://img.shields.io/badge/website-shivoham--lab.github.io-e8a045?style=flat-square&logo=github)](https://shivoham-lab.github.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Shivoham_Labs-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/shivoham-labs)
+[![GitHub Org](https://img.shields.io/badge/github-Shivoham--Lab-181717?style=flat-square&logo=github)](https://github.com/Shivoham-Lab)
+
+</div>
+
+---
+
+# 🧠 DSA Helper — A Claude Skill for Competitive Programming
+
+<div align="center">
 
 **The ultimate structured DSA problem solver, powered by Claude.**
 *Paste a link. Get a complete breakdown. Learn while you solve.*
