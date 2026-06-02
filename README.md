@@ -50,7 +50,7 @@ Instead of getting just a solution, you get:
 - Time & space complexity with educational commentary
 - Every edge case your code handles
 
-It's not just a solver — it's a **DSA tutor that never skips steps**.
+It's not just a solver, it's a **DSA tutor that never skips steps**.
 
 ---
 
@@ -163,7 +163,7 @@ By default, solutions are provided in **Python** — the most readable language 
 ```
 dsa-helper/
 ├── README.md                    ← You are here
-└── dsa-helper-skill-prompt.md   ← Paste this into Claude to activate the skill
+└── Skill.md   ← Paste this into Claude to activate the skill
 ```
 
 ---
@@ -295,7 +295,7 @@ print(message.content[0].text)
 
 ## 🤝 Contributing
 
-Have a pillar improvement suggestion? Found a problem type that breaks the format? Open an issue or submit a PR with:
+Have any improvement suggestion? Found a problem type that breaks the format? Open an issue or submit a PR with:
 - The problem that caused an issue
 - What output was produced
 - What output was expected
