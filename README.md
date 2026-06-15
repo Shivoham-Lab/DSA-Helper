@@ -19,7 +19,7 @@
 
 *Shivoham (शिवोऽहम्) — "I am that." Sanskrit. Identity. Intent. Purpose.*
 
-[![Website](https://img.shields.io/badge/website-shivoham--lab.github.io-e8a045?style=flat-square&logo=github)](https://shivoham-lab.github.io)
+[![Website](https://img.shields.io/badge/Website-shivoham--lab.vercel.app-e8a045?style=flat-square)](https://shivoham-lab.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Shivoham_Labs-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/shivoham-labs)
 [![GitHub Org](https://img.shields.io/badge/github-Shivoham--Lab-181717?style=flat-square&logo=github)](https://github.com/Shivoham-Lab)
 
